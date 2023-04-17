@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcriar_hamburguer_v3"]=self["webpackChunkcriar_hamburguer_v3"]||[]).push([[884],{5884:function(r,n,u){u.r(n),u.d(n,{default:function(){return s}});var a=u(3396);const e=(0,a._)("h1",null,"Contato",-1),t=[e];function c(r,n){return(0,a.wg)(),(0,a.iD)("main",null,t)}var i=u(89);const l={},o=(0,i.Z)(l,[["render",c]]);var s=o}}]);
+//# sourceMappingURL=884.a71b7f66.js.map

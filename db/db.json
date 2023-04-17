@@ -1,0 +1,115 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Maminha"
+      },
+      {
+        "id": 2,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 3,
+        "tipo": "Picanha"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Salame"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 4,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 4,
+        "tipo": "Pepino"
+      },
+      {
+        "id": 5,
+        "tipo": "Picles"
+      },
+      {
+        "id": 6,
+        "tipo": "Alface"
+      }
+    ],
+    "molhos": [
+      {
+        "id": 1,
+        "tipo": "Ketchup"
+      },
+      {
+        "id": 2,
+        "tipo": "Mostarda"
+      },
+      {
+        "id": 3,
+        "tipo": "Maionese"
+      },
+      {
+        "id": 4,
+        "tipo": "Maionese da Casa "
+      },
+      {
+        "id": 5,
+        "tipo": "Barbecue"
+      },
+      {
+        "id": 6,
+        "tipo": "Mostarda e Mel"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em Produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": []
+}
